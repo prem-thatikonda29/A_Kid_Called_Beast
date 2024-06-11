@@ -34,7 +34,7 @@ body {
   width: 100%;
   height: auto;
   background-color: var(--background-color2);
-  cursor: none;
+  /* cursor: none; */
 }
 
 .cursor {
